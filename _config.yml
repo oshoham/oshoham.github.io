@@ -13,12 +13,13 @@ baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
 
 # Site Build
 highlighter:        pygments
-markdown:           redcarpet
-redcarpet:
-    extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "highlight", "footnotes"]
-#markdown:           kramdown
-#kramdown:
-#    input:          GFM
+#markdown:           redcarpet
+#redcarpet:
+#    extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "highlight", "footnotes"]
+markdown:           kramdown
+kramdown:
+    input:          GFM
+    math_engine: mathjax
 sass:
     style:          :compressed
 
@@ -27,6 +28,7 @@ include:            [ "robots.txt" ]
 exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
 gems:
   - jekyll-sitemap
+  - jemoji
 
 compress_html:
     clippings:      all

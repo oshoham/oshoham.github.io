@@ -54,16 +54,20 @@ tags:
 
 * **What doesn't change?** The adult Lemon, the narrator, is a fixed point throughout the play.
 
-## Don't Forget Yourself
+## What Does the World Demand of Me?
 
-* **What does this world demand of me?** _Aunt Dan and Lemon_ asks the audience to reflect on how fascist ideas are passed down from generation to generation and still exist in our society. The play makes this intention known by showing a natural progression from Aunt Dan's idealization of Kissinger to Lemon's monologue about admiring the honesty of the Nazis and the necessity of killing.
-
-## Theatrical Mirrors
+_Aunt Dan and Lemon_ asks the audience to reflect on how fascist ideas are passed down from generation to generation, and to acknowledge that fascism still exists in our society today. The play makes this intention known by showing a natural progression from Aunt Dan's idealization of Henry Kissinger to Lemon's monologue about admiring the honesty of the Nazis and the necessity of killing.
 
 # Concept Sentences
 
 ## Simple Sentence
 
+_Aunt Dan and Lemon_ is about the allure of fascism.
+
 ## Complex Sentence
 
+_Aunt Dan and Lemon_ is about how fascist ideology can be passed down from generation to generation, even among people in our society who seem to be no different from us.
+
 ## Three to Five Sentence version of the story
+
+_Aunt Dan and Lemon_ is about a British woman named Lemon with a difficult childhood who grows up idealizing her "Aunt" Dan, an American friend of her parents. Aunt Dan worships Henry Kissinger, defends U.S. military policy in the Vietnam War, and tells a young Lemon violent and sexually explicit stories about her wild youth at Oxford. As an adult, Lemon internalizes Aunt Dan's worldview and becomes a fascist apologist, believing that compassion is a lie and admiring the "honesty" of the Nazis and killers in general.

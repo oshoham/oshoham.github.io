@@ -938,6 +938,10 @@ hexo-server@^0.2.0:
     opn "^4.0.0"
     serve-static "^1.10.0"
 
+hexo-tag-html5video@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/hexo-tag-html5video/-/hexo-tag-html5video-1.0.3.tgz#ad46ca9e12f8cdc2d458a8d648d0e9866a3a1f28"
+
 hexo-util@^0.6.0:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/hexo-util/-/hexo-util-0.6.1.tgz#3d74b11af9ae11f21c7c62fa843546e1582e02d8"

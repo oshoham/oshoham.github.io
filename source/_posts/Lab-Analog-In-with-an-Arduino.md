@@ -12,6 +12,6 @@ One part of this lab gave me some trouble: the last section, where we're suppose
 
 I was able to get the circuit and code working, but for some reason, whenever I squeezed one FSR, the resistance of the other adjacent FSR would also decrease by a small amount, allowing a small amount of voltage (in the range of 0.04V - 0.06V) to get through to the Arduino and turn on the corresponding LED.
 
-{% html5video '100%' '400px' %} {% asset_path IMG_6137.mov %} {% endhtml5video %}
+{% html5video '100%' '100%' %} {% asset_path IMG_6137.mov %} {% endhtml5video %}
 
-I'm not sure why this is happening...The circuits that measure the resistance of the FSRs are independent from one another, so it's not clear to me why one would affect the other.
+I'm not sure why this is happening...The circuits that measure the resistance of the FSRs should be independent from one another, so it's not clear to me why one would affect the other.

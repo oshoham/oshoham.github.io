@@ -13,4 +13,4 @@ As part of our homework for week 2 of Physical Computing, I had to come up with 
 
 {% asset_img IMG_6140.JPG %}
 
-{% html5video '100%' '700px' %} {% asset_path mechanical-pencil-circuit.mp4 %} {% endhtml5video %}
+{% html5video '100%' '100%' %} {% asset_path mechanical-pencil-circuit.mp4 %} {% endhtml5video %}

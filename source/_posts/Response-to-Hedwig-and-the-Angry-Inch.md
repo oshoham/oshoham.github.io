@@ -14,13 +14,13 @@ tags:
 
 * **What is space like?** _Hedwig and the Angry Inch_ takes place on the stage of a Broadway theater, the Belasco, on the former set of _Hurt Locker: The Musical_. The space is modified by lighting and projections over the course of the show.
 
-* **What is time like?** Time is linear, as the musical takes place over the course of Hedwig's performance. However, you could also say that time jumps around as Hedwig re-enacts several moments from her life over the course of play.
+* **What is time like?** Time is linear, as the musical takes place over the course of Hedwig's performance. However, the musical also uses a flashback structure as Hedwig re-enacts several moments from her life.
 
 * **What is the climate like?** The musical takes place entirely indoors, so it's hard to say what the climate is like. I'd guess that the climate is like the inside of a theatre, dark and maybe air-conditioned.
 
 * **What is the mood? What is the tone?** The mood of the musical is at times angry and defiant, at others humorous, at others sad and melancholy. The rock and roll music gives the musical a passionate tone.
 
-* **What is the pattern of sound?** _Hedwig and the Angry Inch_, like most musicals, alternates between speaking and singing. The music takes a lot of inspiration from early 1970s glam rock and punk. Hedwig's backing band consists of the typical rock instruments - drums, bass, electric guitar, and piano.
+* **What is the pattern of sound?** _Hedwig and the Angry Inch_, like most musicals, alternates between speaking and singing. The music takes a lot of inspiration from early 1970s glam rock, punk, and power ballads. Hedwig's backing band consists of the typical rock instruments - drums, bass, electric guitar, and piano.
 
 ## The Social World of the Play
 
@@ -41,26 +41,31 @@ tags:
 ## What Changes?
 
 * **Three images**
-  * **First image:** Yitzhak sullenly introducing Hedwig as she parachutes onto the stage to sing "Tear Me Down", a defiant song about how she straddles the line between man and woman.
+  * **First image:** Yitzhak sullenly introducing Hedwig as she parachutes onto the stage to sing "Tear Me Down".
   * **Last image:** Hedwig walking offstage into the light as Yitzhak (finally in drag) and the band sing the phrase "Lift up your hands..."
-  * **Central image:** Hedwig singing "Angry Inch", a song about her botched sex change
-  * **Why was it essential to move through the central image to get from the first to the last?** The opening scene introduces us to Hedwig as a character of indeterminate identity, somewhere between "slavery and freedom, man and woman". The scene also shows us the toxic relationship between Hedwig and Yitzhak. Hedwig's botched sex change is a formational moment in her gender identity, and marks the point at which she internalizes her mother's philosophy that "[in order] to be free, one must give up a little part of oneself," which she later uses to justify forcing Yitzhak to never perform drag as a condition of their green card marriage. The closing scene completes the arc of Hedwig and Yitzhak's relationship and shows us Hedwig whole and complete, having found her other half within herself.
+  * **Central image:** Hedwig singing "Angry Inch", a song about her botched sex change.
+  * **Why was it essential to move through the central image to get from the first to the last?** "Tear Me Down" introduces us to Hedwig as a divided character, compared to the Berlin Wall, somewhere in between "slavery and freedom, man and woman". Hedwig's botched sex change is the moment at which she loses her maleness and becomes a person somewhere in between male and female. The closing image shows us Hedwig emotionally healed and whole, having found her other half within herself. It was essential to move through the central image because it shows us the moment of Hedwig's division.
 
 * **What changes in the landscape?** The lights and projections change frequently.
 
-* **What changes in time?**
+* **What changes in the action?** _Hedwig and the Angry Inch_ moves from defiance to self-acceptance.
 
-* **What changes in the action?**
-
-* **What doesn't change?** The Angry Inch don't really change at all.
+* **What doesn't change?** The Angry Inch don't really change at all - they seem to be there mostly to accompany Hedwig and Yitzhak.
 
 ## What Does the World Demand of Me?
 
+_Hedwig and the Angry Inch_ asks the audience to empathize with Hedwig, to feel her emotions along with her.
 
 # Concept Sentences
 
 ## Simple Sentence
 
+_Hedwig and the Angry Inch_ is a musical about self-acceptance.
+
 ## Complex Sentence
 
+_Hedwig and the Angry Inch_ is a musical about searching for an other half and finding it within yourself.
+
 ## Three to Five Sentence version of the story
+
+_Hedwig and the Angry Inch_ is a musical about Hedwig, an East German genderqueer woman who writes and performs glam rock and punk music. Growing up in East Berlin, Hedwig becomes obsessed with the idea that everyone has an "other half" somewhere in the world that will complete them. When she falls in love with an American solider, Hedwig undergoes a botched sex change operation in order to marry him and move to America, only for him to leave her. After her operation, Hedwig sees herself as divided between male and female. After she moves to Junction City, New Jersey, Hedwig trains a young man named Tommy Speck to be a rock star, only for him to also leave her when he discovers her botched sex change, eventually using her songs to become a famous musician. As Hedwig tells her life story over the course of the musical, she lets go of her pain and anger, and comes to realize that she is more than a woman or a man, and that she does not need another person to complete her.

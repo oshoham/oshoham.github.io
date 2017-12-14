@@ -4,6 +4,7 @@ date: 2017-12-12 16:09:43
 tags:
   - Intro to Fabrication
   - Project Documentation
+categories: Intro to Fabrication
 ---
 
 For the fifth week of Intro to Fabrication, we were asked to make a project using two materials, neither of which could be acrylic or plywood. I ended up making an origami crane out of paper and a thin brass sheet.
